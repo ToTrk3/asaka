@@ -6,7 +6,7 @@
   <link href="https://totrk3.github.io/asaka.github.io/atom.xml" rel="self"/>
   
   <link href="https://totrk3.github.io/asaka.github.io/"/>
-  <updated>2022-03-18T16:10:54.203Z</updated>
+  <updated>2022-03-18T16:59:02.272Z</updated>
   <id>https://totrk3.github.io/asaka.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="https://totrk3.github.io/asaka.github.io/2022/03/19/Hello-Hexo/"/>
     <id>https://totrk3.github.io/asaka.github.io/2022/03/19/Hello-Hexo/</id>
     <published>2022-03-18T16:06:08.000Z</published>
-    <updated>2022-03-18T16:10:54.203Z</updated>
+    <updated>2022-03-18T16:59:02.272Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Hello-！"><a href="#Hello-！" class="headerlink" title="Hello ！"></a>Hello ！</h1><p>this is my first blog …</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Hello-！"><a href="#Hello-！" class="headerlink" title="Hello ！"></a>Hello ！</h2><p>this is my first blog …</p><h2 id=""><a href="#" class="headerlink" title=""></a></h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;Hello-！&quot;&gt;&lt;a href=&quot;#Hello-！&quot; class=&quot;headerlink&quot; title=&quot;Hello ！&quot;&gt;&lt;/a&gt;Hello ！&lt;/h1&gt;&lt;p&gt;this is my first blog …&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;Hello-！&quot;&gt;&lt;a href=&quot;#Hello-！&quot; class=&quot;headerlink&quot; title=&quot;Hello ！&quot;&gt;&lt;/a&gt;Hello ！&lt;/h2&gt;&lt;p&gt;this is my first blog …&lt;/p&gt;
+&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; </summary>
       
     
     
