@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://totrk3.github.io/asaka.github.io/atom.xml" rel="self"/>
+  <link href="https://asaka.github.io/atom.xml" rel="self"/>
   
-  <link href="https://totrk3.github.io/asaka.github.io/"/>
+  <link href="https://asaka.github.io/"/>
   <updated>2022-03-19T09:41:41.313Z</updated>
-  <id>https://totrk3.github.io/asaka.github.io/</id>
+  <id>https://asaka.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>minIO配置并整合Springboot</title>
-    <link href="https://totrk3.github.io/asaka.github.io/2022/03/19/minIO%E9%85%8D%E7%BD%AE%E5%B9%B6%E6%95%B4%E5%90%88Springboot/"/>
-    <id>https://totrk3.github.io/asaka.github.io/2022/03/19/minIO%E9%85%8D%E7%BD%AE%E5%B9%B6%E6%95%B4%E5%90%88Springboot/</id>
+    <link href="https://asaka.github.io/2022/03/19/minIO%E9%85%8D%E7%BD%AE%E5%B9%B6%E6%95%B4%E5%90%88Springboot/"/>
+    <id>https://asaka.github.io/2022/03/19/minIO%E9%85%8D%E7%BD%AE%E5%B9%B6%E6%95%B4%E5%90%88Springboot/</id>
     <published>2022-03-19T09:40:02.000Z</published>
     <updated>2022-03-19T09:41:41.313Z</updated>
     
@@ -35,14 +35,14 @@
     
     
     
-    <category term="Spring" scheme="https://totrk3.github.io/asaka.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://asaka.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>后端统一接口</title>
-    <link href="https://totrk3.github.io/asaka.github.io/2022/03/19/%E5%90%8E%E7%AB%AF%E7%BB%9F%E4%B8%80%E6%8E%A5%E5%8F%A3/"/>
-    <id>https://totrk3.github.io/asaka.github.io/2022/03/19/%E5%90%8E%E7%AB%AF%E7%BB%9F%E4%B8%80%E6%8E%A5%E5%8F%A3/</id>
+    <link href="https://asaka.github.io/2022/03/19/%E5%90%8E%E7%AB%AF%E7%BB%9F%E4%B8%80%E6%8E%A5%E5%8F%A3/"/>
+    <id>https://asaka.github.io/2022/03/19/%E5%90%8E%E7%AB%AF%E7%BB%9F%E4%B8%80%E6%8E%A5%E5%8F%A3/</id>
     <published>2022-03-19T09:39:56.000Z</published>
     <updated>2022-03-19T09:41:56.378Z</updated>
     
@@ -58,14 +58,14 @@
     
     
     
-    <category term="Spring" scheme="https://totrk3.github.io/asaka.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://asaka.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>Springboot参数验证</title>
-    <link href="https://totrk3.github.io/asaka.github.io/2022/03/19/Springboot%E5%8F%82%E6%95%B0%E9%AA%8C%E8%AF%81/"/>
-    <id>https://totrk3.github.io/asaka.github.io/2022/03/19/Springboot%E5%8F%82%E6%95%B0%E9%AA%8C%E8%AF%81/</id>
+    <link href="https://asaka.github.io/2022/03/19/Springboot%E5%8F%82%E6%95%B0%E9%AA%8C%E8%AF%81/"/>
+    <id>https://asaka.github.io/2022/03/19/Springboot%E5%8F%82%E6%95%B0%E9%AA%8C%E8%AF%81/</id>
     <published>2022-03-19T08:29:01.000Z</published>
     <updated>2022-03-19T09:44:41.939Z</updated>
     
@@ -82,14 +82,14 @@
     
     
     
-    <category term="Spring" scheme="https://totrk3.github.io/asaka.github.io/tags/Spring/"/>
+    <category term="Spring" scheme="https://asaka.github.io/tags/Spring/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://totrk3.github.io/asaka.github.io/2022/03/18/hello-world/"/>
-    <id>https://totrk3.github.io/asaka.github.io/2022/03/18/hello-world/</id>
+    <link href="https://asaka.github.io/2022/03/18/hello-world/"/>
+    <id>https://asaka.github.io/2022/03/18/hello-world/</id>
     <published>2022-03-18T08:36:53.185Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
